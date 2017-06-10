@@ -47,4 +47,3 @@ jsonOsoby.osoby[2].zainteresowania.forEach(function(element, index) {
 
 
 
-
